@@ -206,6 +206,7 @@ new Vue({
       link.href = element.cover;
       link.as = "image"
       document.head.appendChild(link)
+      clear all element
     }
   }
 });
